@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WebWhitelist:jar">
+    <output-path>$PROJECT_DIR$/../../../lib/spigotbuilds/TestServer/plugins</output-path>
+    <root id="archive" name="WebWhitelist.jar">
+      <element id="module-output" name="WebWhitelist" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

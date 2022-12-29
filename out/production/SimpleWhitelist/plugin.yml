@@ -1,0 +1,5 @@
+name: SimpleWhitelist
+main: theof.webwhitelist.WebWhitelist
+author: TheoF
+version: 1.0
+api-version: 1.19

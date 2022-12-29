@@ -1,0 +1,5 @@
+package theof.webwhitelist.webserver;
+
+public enum Method {
+    GET, POST, PUT, PATCH, DELETE, OPTIONS, HEAD, CONNECT, TRACE
+}
